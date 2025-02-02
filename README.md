@@ -28,6 +28,7 @@ A lightweight, installable Progressive Web App (PWA) that effortlessly converts 
 
 - Open up https://klangagency.github.io/pxtorem/
 - Depending on your browser; click the popup to install it as an app, or go to settings and search for e.g _install as app_
+- On mobile; settings -> add to Home screen / Install
 
 ## 💡 Usage Example
 
